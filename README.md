@@ -1,4 +1,4 @@
-## GitHub上最火的Android开源项目持续更新中.....
+## GitHub上最全最多最火的Android开源项目持续更新中.....
 
 *  github最大的痛点在于，拿到开源项目不会用，导入各种报错，readme看不懂，推荐给大家一个链接，所有的 项目都亲测没有问题并且全部配置了详细的步骤和配套视频进行解说，欢迎大家star。
   
@@ -12,11 +12,23 @@
 
 * android github 库：
 
-* H5和Android通信框架，让H5和Android相互调用更加简单。
-https://github.com/open-android/BridgeWebView
-
 * 收集Android方方面面的经典知识, 最新技术.
 https://github.com/itheima1/Android
+
+* Android 最新学习资料收集
+https://github.com/forezp/AndroidMaterialLatest
+
+* Android API easy to use permission for Android M
+https://github.com/lovedise/PermissionGen
+
+* Round Corner Progress Bar Library for Android
+https://github.com/akexorcist/Android-RoundCornerProgressBar
+
+* Android应用自动更新库(android-auto-update)
+https://github.com/feicien/android-auto-update
+
+* H5和Android通信框架，让H5和Android相互调用更加简单。
+https://github.com/open-android/BridgeWebView
 
 * Android LoopViewPager 轮播控件
 https://github.com/sn4061740/LoopViewPager
@@ -24,9 +36,15 @@ https://github.com/sn4061740/LoopViewPager
 * 一分钟实现ViewPager卡片
 https://github.com/open-android/ViewPagerCards
 
+* A amazing reading app  可以固定图片在顶部，往下滚动时图片不见，在tool 栏显示其他的东西。。。要 的内完完全全都有，进去看下哦。
+https://github.com/xinghongfei/LookLook
+
 
 * 一分钟实现贴纸功能
 https://github.com/open-android/labelview
+* Android slanted TextView .
+https://github.com/HeZaiJin/SlantedTextView
+
 
 * 一行代码实现Android引导界面
 https://github.com/open-android/GuideViewPager
@@ -69,6 +87,57 @@ https://github.com/sunfusheng/GlideImageView
 
 * 安卓选择器类库，包括日期选择器、时间选择器、单项选择器、双项选择器、城市地址选择器...
 https://github.com/gzu-liyujiang/AndroidPicker
+
+
+* 判断App位于前台或者后台的6种方法
+https://github.com/wenmingvs/AndroidProcess
+
+
+* Android MVP快速开发框架，做国内 「Demo最全面」「注释最详细」「使用最简单」「代码最严谨」的Android开源UI框架
+https://github.com/TommyLemon/Android-ZBLibrary
+
+
+* 一个简单，强大的广告活动弹窗控件
+https://github.com/yipianfengye/android-adDialog
+https://github.com/Tapadoo/Alerter
+* 仿iOS的AlertViewController
+https://github.com/Bigkoo/Android-AlertView
+
+* A customizable welcome screen
+https://github.com/stephentuso/welcome-android
+
+* Android MVP Architecture Study
+https://github.com/Rukey7/MvpApp#mvpapp
+
+* Android插件框架，免安装运行插件APK ，支持独立插件和非独立插件
+https://github.com/limpoxe/Android-Plugin-Framework
+
+* 仿UC天气下拉和微信下拉眼睛
+https://github.com/BlueMor/Android-PullLayout
+
+* Android架构合集
+https://github.com/Juude/Awesome-Android-Architecture
+
+* a super textview for android
+https://github.com/lygttpod/SuperTextView
+
+
+* 整理Android Studio 最全面的开发插件。
+https://github.com/PegasusCharles/Android-Studio-Plugins-cn
+
+* Java & Android Network Module（JAVA网络、Android网络操作：包括网络请求、WebView相关、常用第三方框架OkHttp&Volley）
+https://github.com/xuningjack/AndroidNet
+
+
+* iOS UIActionSheet for Android
+https://github.com/baoyongzhang/android-ActionSheet
+
+
+
+
+
+* 目标检测&目标追踪&人脸检测&人脸识别
+https://github.com/kongqw/OpenCVForAndroid
 
 
 ### Kotlin视频学习
