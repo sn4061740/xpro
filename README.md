@@ -10,9 +10,65 @@
 
 ![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
 
-android github 库：
+* android github 库：
+
+* H5和Android通信框架，让H5和Android相互调用更加简单。
+https://github.com/open-android/BridgeWebView
+
+* 收集Android方方面面的经典知识, 最新技术.
 https://github.com/itheima1/Android
 
+* Android LoopViewPager 轮播控件
+https://github.com/sn4061740/LoopViewPager
+
+* 一分钟实现ViewPager卡片
+https://github.com/open-android/ViewPagerCards
+
+
+* 一分钟实现贴纸功能
+https://github.com/open-android/labelview
+
+* 一行代码实现Android引导界面
+https://github.com/open-android/GuideViewPager
+
+
+* Android底部导航封装
+https://github.com/open-android/FragmentTabhostUtils
+
+
+* 内存泄漏检测工具，支持android studio eclipse
+https://github.com/open-android/LeakCanaryDemo
+
+* Android滚轮选择控件 , 包含3D 效果， 滑动流畅无比
+https://github.com/open-android/WheelPicker
+
+
+* 结合glide使用，实现很炫的图片展示效果框架
+https://github.com/open-android/Glide-transformations
+
+* 省市区三级联动
+https://github.com/open-android/CityPickerWebView
+
+* 一种漂亮的UI控件，能更灵活的控制数字的增减 , 类似商城购物车加减控件
+https://github.com/open-android/ShoppingCartAddSubtract
+
+* 最火绘图项目MPAndroidChart的使用，一行依赖，快捷开发。
+https://github.com/open-android/MPAndroidChart
+https://github.com/open-android/WilliamChart
+
+
+* 打造统一的图片加载框架，融合Glide（4.x），Fresco,不侵入业务代码，一套API兼容两种加载库
+https://github.com/ladingwu/ImageLoaderFramework
+* 基于Glide V4.8.0封装的图片加载库，可以监听加载图片时的进度
+https://github.com/sunfusheng/GlideImageView
+
+* 图片框架库
+* https://github.com/XXApple/AndroidLibs
+* https://github.com/XXApple/AndroidLibs/tree/master/%E5%9B%BE%E7%89%87%E6%A1%86%E6%9E%B6Image
+
+
+* 安卓选择器类库，包括日期选择器、时间选择器、单项选择器、双项选择器、城市地址选择器...
+https://github.com/gzu-liyujiang/AndroidPicker
 
 
 ### Kotlin视频学习
