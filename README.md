@@ -10,6 +10,15 @@
 
 ![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
 
+
+pod 'Kingfisher',:git=>'https://github.com/onevcat/Kingfisher.git'
+    pod 'SwiftPullToRefresh',:git=>'https://github.com/WXGBridgeQ/SwiftPullToRefresh.git'
+#    pod 'LZViewPager',:git=>'https://github.com/ladmini/LZViewPager.git'
+#    pod 'MaterialComponents'
+#   pod 'MaterialComponents/PageControl'
+    pod 'JXSegmentedView'
+
+
 * android github 库：
 
 * 收集Android方方面面的经典知识, 最新技术.
